@@ -249,5 +249,10 @@ echo "Login gagal (secure). <a href='index.php'>Kembali</a>";
 1. Login Berhasil
 <img width="1920" height="1080" alt="Screenshot 2025-10-09 100834" src="https://github.com/user-attachments/assets/de7bef38-d443-4f40-a8b4-9f191d3b4328" />
 
-3. Login gagal
+2. Login gagal
 <img width="1920" height="1080" alt="Screenshot 2025-10-09 101641" src="https://github.com/user-attachments/assets/31a156d8-6a25-4774-a566-7b55da5233ed" />
+
+3. Login 'or'1'='1' Berhasil
+<img width="1920" height="1080" alt="Screenshot 2025-10-09 095646" src="https://github.com/user-attachments/assets/6d7da67c-5cf8-4b5e-b4d8-e53d6de173bb" />
+
+report hostedscan : file:///D:/Catatan%20Semester%205/Sertifikat/2026-01-08.sraysany-at-gmail-com-s.organization.report.pdf
