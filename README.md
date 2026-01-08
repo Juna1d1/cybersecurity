@@ -255,4 +255,4 @@ echo "Login gagal (secure). <a href='index.php'>Kembali</a>";
 3. Login 'or'1'='1' Berhasil
 <img width="1920" height="1080" alt="Screenshot 2025-10-09 095646" src="https://github.com/user-attachments/assets/6d7da67c-5cf8-4b5e-b4d8-e53d6de173bb" />
 
-report hostedscan : https://github.com/Juna1d1/cybersecurity/blob/main/2026-01-08.sraysany-at-gmail-com-s.organization.report.pdf
+report hostedscan : [2026-01-08.sraysany-at-gmail-com-s.organization.report.pdf](https://github.com/user-attachments/files/24487347/2026-01-08.sraysany-at-gmail-com-s.organization.report.pdf)
